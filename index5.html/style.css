@@ -1,0 +1,20 @@
+h1{color: blue;font-size: 21pt; font-family: Helvetica;}
+a[href="#Paragrafo"] {brown;font-size: 15pt;font-family: Blipp, fantasy;}
+a[href="#Linha Horizontal"] {color: yellowgreen;font-size: 15pt;font-family: Blipp, fantasy;}
+a[href="#Listas"] {color: green;font-size: 15pt;font-family: Blipp, fantasy;}
+a[href="#Tabela"] {color: pink;font-size: 15pt;font-family: Blipp, fantasy;}
+a[href="#Formulário"] {color: red;font-size: 15pt;font-family: Blipp, fantasy;}
+a[href="#Mídias"] {color: orange;font-size: 15pt;font-family: Blipp, fantasy;}
+
+a[href="#Paragrafo"] {word-spacing: 50px;}
+
+*
+{background-color: rgb(231, 174, 206);}
+
+
+h2{color: red; font-size: 25 ;font-family: blippo fantasy;}
+p{ color: brown ;font-size: 20; font-family: bippo fantasy;}
+h3{color: rgb(54, 131, 19) ;font-size: 20; font-family: bippo fantasy;}
+
+ul {color: rgb(58, 14, 128) ;font-size: 20; font-family: bippo fantasy;}
+ol {color: rgb(58, 14, 128) ;font-size: 20; font-family: bippo fantasy;}
